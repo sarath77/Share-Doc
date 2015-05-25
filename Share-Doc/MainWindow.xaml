@@ -9,5 +9,6 @@
         </Grid.RowDefinitions>
 
         <StatusBar x:Name="status" Grid.Row="1" />
+        <Button Content="Button" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="75" Click="Button_Click"/>
     </Grid>
 </Window>
